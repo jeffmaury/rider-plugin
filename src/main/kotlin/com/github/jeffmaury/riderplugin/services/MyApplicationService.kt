@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jeffmaury.riderplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jeffmaury.riderplugin.MyBundle
 
 class MyApplicationService {
 
